@@ -1,0 +1,10 @@
+﻿/* Skill Cards - BRIGHT VERSION */
+.skill-card {
+    position: relative;
+    background: #2a2a2a !important;
+    border: 1px solid #444 !important;
+    border-radius: 16px;
+    padding: 2rem;
+    transition: all 0.4s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    overflow: hidden;
+}
